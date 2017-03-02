@@ -1,16 +1,16 @@
 {  
-  "name": "Surjur/newDaDa-php-sdk",  
-  "description": "Yii2 Surjur newDaDa-php-sdk",  
+  "name": "Surjur/newDaDa",  
+  "description": "Yii2 Surjur newDaDa",  
   "keywords": [  
     "yii2",  
     "Surjur",
     "newDaDa"
   ],  
-  "homepage": "https://github.com/Surjur/newDaDa-php-sdk",  
+  "homepage": "https://github.com/Surjur/newDaDa",  
   "type": "yii2-extension",  
   "license": "MIT",  
   "support": {  
-    "source": "https://github.com/Surjur/newDaDa-php-sdk"  
+    "source": "https://github.com/Surjur/newDaDa"  
   },  
   "authors": [  
     {  
