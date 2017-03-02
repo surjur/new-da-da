@@ -17,8 +17,7 @@
       "name": "Surjur",  
       "email": "262377509@qq.com"  
     }  
-  ],  
-  "minimum-stability": "stable",  
+  ], 
   "require": {  
     "php": ">=5.3.3",  
     "yiisoft/yii2": ">=2.0.0"  
