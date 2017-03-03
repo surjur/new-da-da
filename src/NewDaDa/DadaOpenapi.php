@@ -1,5 +1,5 @@
 <?php
-namespace NewDaDa
+namespace NewDaDa;
 
 class DadaOpenapi{
     
