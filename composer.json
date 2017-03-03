@@ -27,8 +27,5 @@
     "psr-4": {  
       "NewDaDa\\": "src/NewDaDa/"  
     }  
-  },  
-  "config": {  
-    "process-timeout": 1800  
-  }  
+  }
 }
