@@ -171,7 +171,7 @@ class DadaOpenapi{
         }else{
             $data = json_decode($arr, true);
             $this->status = $data['status'];
-            $this->result = $data['result'];
+            $this->result = !empty($data['result'])?$data['result']:'';
             $this->code = $data['code'];
             $this->msg = $data['msg']; 
         }
